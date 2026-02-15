@@ -1,16 +1,53 @@
-## Hi there 👋
+                                                  Hi there 👋
 
-<!--
-**pragya-pp08/pragya-pp08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋 I'm Pragya Richa Pandey</h1>
+<h3 align="center">💻 Computer Science Student | 🚀 DSA Enthusiast | 🤖 AI Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌸 About Me
+
+✨ Passionate about problem solving and structured thinking  
+🎯 Currently focused on mastering Data Structures & Algorithms  
+🚀 Exploring Open Source and real-world development  
+🧠 Strong believer in consistency > motivation  
+🎨 Creative mind with organized execution  
+
+---
+
+## 🚀 What I'm Currently Working On
+
+- 🔹 Solving DSA problems 
+- 🔹 Building practical development projects
+- 🔹 Strengthening Git & GitHub workflow
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+`Java` `Python` `HTML` `CSS` `Python Libararies`
+
+### ⚙️ Tools & Platforms
+`Git` `GitHub` `VS Code`
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 V-Connect  
+A structured communication-based project focused on meaningful digital interaction.
+
+
+
+## 🌐 Let's Connect
+
+💼 LinkedIn: (https://www.linkedin.com/in/pragya-richa-pandey-94bbb9308/)  
+
+
+---
+
+<p align="center">
+  ⭐ Building today for a stronger tomorrow.
+</p>
