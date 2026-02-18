@@ -36,7 +36,7 @@
 
 ## 📌 Featured Projects
 
-### 🔹 V-Connect  
+### 🔹 V-Connect (working on..) 
 A structured communication-based project focused on meaningful digital interaction.
 
 
