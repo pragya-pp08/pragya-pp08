@@ -12,7 +12,7 @@
 🎯 Currently focused on mastering Data Structures & Algorithms  
 🚀 Exploring Open Source and real-world development  
 🧠 Strong believer in consistency > motivation  
-🎨 Creative mind with organized execution  
+ 
 
 ---
 
