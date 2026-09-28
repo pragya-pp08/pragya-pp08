@@ -1,54 +1,63 @@
-# Pragya Richa Pandey
+<div align="center">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Pragya Richa Pandey — Computer Science Undergraduate" />
+</div>
 
-**Computer Science undergraduate building full-stack products with practical AI.**
+<br />
 
-I enjoy taking an idea past the prototype stage: defining the user journey, connecting the interface to real data, handling the awkward edge cases, and making the result usable by someone other than its developer.
+## About me
 
-My current work sits at the intersection of **product engineering, applied AI, and technology for social impact**. I work mainly with React, FastAPI, Firebase, Python, and Java.
+I’m a Computer Science undergraduate who learns best by building. I enjoy working through the complete path from an idea to a usable product—understanding the problem, designing the flow, connecting the backend, and improving the details that make software feel reliable.
 
-## Selected work
+Right now, I’m developing my foundations in **full-stack engineering, data structures and algorithms, and applied AI**. I’m especially interested in technology that solves an understandable human problem instead of existing only as a technical demonstration.
 
-### [Saheli Network](https://github.com/pragya-pp08/Saheli-Network)
+- Based in India
+- Building with React, FastAPI, Firebase, Python, and Java
+- Learning more about backend design, authentication, databases, and responsible AI integration
+- Open to student collaborations, hackathons, and meaningful open-source work
 
-A women-first, hyperlocal work platform for skilled women in rural and small-town communities. Saheli Network reached the grand finale of the national-level **Build for Good** hackathon by Sama Social.
+## Current direction
 
-I built the product as a two-sided marketplace where customers can post local work and skilled women can discover, apply for, and manage opportunities. The current version includes:
+```text
+build complete products   →   understand the systems behind them
+practice core CS          →   write better solutions, not just faster ones
+use AI thoughtfully       →   solve a real user problem
+share the process         →   learn in public and improve through feedback
+```
 
-- authenticated worker and customer journeys
-- skill- and distance-based opportunity discovery
-- privacy-aware GPS and Google Maps navigation
-- applications, selection, orders, ratings, and notifications
-- advance and final payment records through universal UPI/QR
-- user-specific earnings and work history
-- a multilingual interface in Hinglish, Hindi, and English
-- **Saheli ki Salah**, a Gemini-powered assistant grounded in the user’s profile and available work
+## Technologies I work with
 
-`React` `Vite` `Tailwind CSS` `FastAPI` `Firebase Auth` `Firestore` `Gemini API`
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,vite,tailwind,fastapi,firebase,html,css,git,github,vscode&amp;perline=13" alt="Java, Python, JavaScript, React, Vite, Tailwind CSS, FastAPI, Firebase, HTML, CSS, Git, GitHub and VS Code" />
+</div>
 
-## What I am working on
+## GitHub activity
 
-- Building dependable full-stack workflows instead of isolated screens
-- Learning how authentication, data ownership, payments, and AI fit into real products
-- Strengthening data structures and algorithms in Java and Python
-- Writing clearer documentation and tests so projects are easier to understand and continue
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pragya-pp08&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=67e8f9&amp;icon_color=a78bfa&amp;text_color=cbd5e1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=pragya-pp08&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=0e7490&amp;icon_color=7c3aed&amp;text_color=334155" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=pragya-pp08&amp;show_icons=true&amp;hide_border=true" alt="Pragya's GitHub statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pragya-pp08&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=67e8f9&amp;text_color=cbd5e1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pragya-pp08&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=0e7490&amp;text_color=334155" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragya-pp08&amp;layout=compact&amp;hide_border=true" alt="Most used languages" />
+  </picture>
+</div>
 
-## Technical toolkit
+## A little more about how I learn
 
-| Area | Tools |
-| --- | --- |
-| Languages | Java, Python, JavaScript, HTML, CSS |
-| Frontend | React, Vite, Tailwind CSS, React Router |
-| Backend | FastAPI, REST APIs, Pydantic |
-| Data and authentication | Firebase Authentication, Cloud Firestore |
-| Applied AI | Gemini API, context-aware assistant workflows |
-| Development | Git, GitHub, VS Code, Pytest |
+I like breaking large ideas into small, testable parts. When something does not work, I would rather trace the actual user journey and understand the failure than patch the visible symptom. My goal is to keep becoming the kind of engineer who can explain a system clearly, make careful decisions, and finish what she starts.
 
-## How I approach projects
+Outside the code itself, I’m working on stronger technical communication, cleaner documentation, and presenting projects with honesty about what works and what still needs to be built.
 
-I care about whether the complete path works: what a new user sees, where the data is saved, who is allowed to change it, what happens when a request fails, and whether the next person can run the project without guessing.
+## Connect with me
 
-I am still learning, but I want the work on this profile to show progression through what I build—not through a long list of technologies I have briefly tried.
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/pragya-richa-pandey-94bbb9308/) · [Saheli Network](https://github.com/pragya-pp08/Saheli-Network)
+<div align="center">
+  <a href="https://www.linkedin.com/in/pragya-richa-pandey-94bbb9308/">
+    <img src="https://img.shields.io/badge/LinkedIn-Pragya%20Richa%20Pandey-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/pragya-pp08">
+    <img src="https://img.shields.io/badge/GitHub-pragya--pp08-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+  </a>
+</div>

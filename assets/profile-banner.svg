@@ -1,0 +1,44 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.58" stop-color="#111B35"/>
+      <stop offset="1" stop-color="#17133A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="124" y1="95" x2="548" y2="288" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#FFFFFF" stroke-opacity="0.045"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <circle cx="1060" cy="62" r="128" fill="#7C3AED" fill-opacity="0.18" filter="url(#glow)"/>
+  <circle cx="920" cy="318" r="118" fill="#06B6D4" fill-opacity="0.13" filter="url(#glow)"/>
+
+  <g opacity="0.86">
+    <path d="M892 88H1052L1120 156V270H960L892 202V88Z" stroke="#67E8F9" stroke-opacity="0.22" stroke-width="2"/>
+    <circle cx="892" cy="88" r="6" fill="#67E8F9"/>
+    <circle cx="1052" cy="88" r="6" fill="#A78BFA"/>
+    <circle cx="1120" cy="156" r="6" fill="#67E8F9"/>
+    <circle cx="1120" cy="270" r="6" fill="#A78BFA"/>
+    <circle cx="960" cy="270" r="6" fill="#67E8F9"/>
+    <circle cx="892" cy="202" r="6" fill="#A78BFA"/>
+    <path d="M892 88L960 270M1052 88L892 202M1052 88L1120 270M892 202L1120 156M960 270L1120 156" stroke="#FFFFFF" stroke-opacity="0.1"/>
+  </g>
+
+  <rect x="92" y="78" width="54" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="92" y="145" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="-1.2">Pragya Richa Pandey</text>
+  <text x="94" y="190" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="400">Computer Science Undergraduate</text>
+  <text x="94" y="232" fill="url(#accent)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="2.2">FULL-STACK DEVELOPMENT  /  APPLIED AI  /  PROBLEM SOLVING</text>
+
+  <rect x="94" y="269" width="260" height="38" rx="19" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.12"/>
+  <circle cx="118" cy="288" r="5" fill="#34D399"/>
+  <text x="133" y="294" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">Learning by building real systems</text>
+</svg>
