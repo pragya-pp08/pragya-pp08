@@ -1,53 +1,54 @@
+# Pragya Richa Pandey
 
+**Computer Science undergraduate building full-stack products with practical AI.**
 
+I enjoy taking an idea past the prototype stage: defining the user journey, connecting the interface to real data, handling the awkward edge cases, and making the result usable by someone other than its developer.
 
-<h1 align="center">Hi 👋 I'm Pragya Richa Pandey</h1>
-<h3 align="center">💻 Computer Science Student | 🚀 DSA Enthusiast | 🤖 AI Learner
+My current work sits at the intersection of **product engineering, applied AI, and technology for social impact**. I work mainly with React, FastAPI, Firebase, Python, and Java.
 
----
+## Selected work
 
-## 🌸 About Me
+### [Saheli Network](https://github.com/pragya-pp08/Saheli-Network)
 
-✨ Passionate about problem solving and structured thinking  
-🎯 Currently focused on mastering Data Structures & Algorithms  
-🚀 Exploring Open Source and real-world development  
-🧠 Strong believer in consistency > motivation  
- 
+A women-first, hyperlocal work platform for skilled women in rural and small-town communities. Saheli Network reached the grand finale of the national-level **Build for Good** hackathon by Sama Social.
 
----
+I built the product as a two-sided marketplace where customers can post local work and skilled women can discover, apply for, and manage opportunities. The current version includes:
 
-## 🚀 What I'm Currently Working On
+- authenticated worker and customer journeys
+- skill- and distance-based opportunity discovery
+- privacy-aware GPS and Google Maps navigation
+- applications, selection, orders, ratings, and notifications
+- advance and final payment records through universal UPI/QR
+- user-specific earnings and work history
+- a multilingual interface in Hinglish, Hindi, and English
+- **Saheli ki Salah**, a Gemini-powered assistant grounded in the user’s profile and available work
 
-- 🔹 Solving DSA problems 
-- 🔹 Building practical development projects
-- 🔹 Strengthening Git & GitHub workflow
+`React` `Vite` `Tailwind CSS` `FastAPI` `Firebase Auth` `Firestore` `Gemini API`
 
----
+## What I am working on
 
-## 🛠 Tech Stack
+- Building dependable full-stack workflows instead of isolated screens
+- Learning how authentication, data ownership, payments, and AI fit into real products
+- Strengthening data structures and algorithms in Java and Python
+- Writing clearer documentation and tests so projects are easier to understand and continue
 
-### 💻 Languages
-`Java` `Python` `HTML` `CSS` `Python Libararies`
+## Technical toolkit
 
-### ⚙️ Tools & Platforms
-`Git` `GitHub` `VS Code`
+| Area | Tools |
+| --- | --- |
+| Languages | Java, Python, JavaScript, HTML, CSS |
+| Frontend | React, Vite, Tailwind CSS, React Router |
+| Backend | FastAPI, REST APIs, Pydantic |
+| Data and authentication | Firebase Authentication, Cloud Firestore |
+| Applied AI | Gemini API, context-aware assistant workflows |
+| Development | Git, GitHub, VS Code, Pytest |
 
----
+## How I approach projects
 
-## 📌 Featured Projects
+I care about whether the complete path works: what a new user sees, where the data is saved, who is allowed to change it, what happens when a request fails, and whether the next person can run the project without guessing.
 
-### 🔹 V-Connect (working on..) 
-A structured communication-based project focused on meaningful digital interaction.
+I am still learning, but I want the work on this profile to show progression through what I build—not through a long list of technologies I have briefly tried.
 
+## Connect
 
-
-## 🌐 Let's Connect
-
-💼 LinkedIn: (https://www.linkedin.com/in/pragya-richa-pandey-94bbb9308/)  
-
-
----
-
-<p align="center">
-  ⭐ Building today for a stronger tomorrow.
-</p>
+[LinkedIn](https://www.linkedin.com/in/pragya-richa-pandey-94bbb9308/) · [Saheli Network](https://github.com/pragya-pp08/Saheli-Network)
