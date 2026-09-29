@@ -1,46 +1,75 @@
+<h1>hey, i'm pragya 👋</h1>
+
 <table>
   <tr>
-    <td width="175" valign="top">
-      <img src="https://github.com/pragya-pp08.png" width="145" alt="Pragya Richa Pandey" />
+    <td width="62%" valign="middle">
+      <p>computer science student who learns by building things, breaking them, and then pretending the debugging was part of the plan.</p>
+      <p>most days, i’m somewhere between a Java DSA problem, a React screen, and one backend error that makes absolutely no sense.</p>
+      <p><strong>currently:</strong> figuring out how real products work from button click to database.</p>
     </td>
-    <td valign="middle">
-      <h1>Pragya Richa Pandey</h1>
-      <p><strong>Computer Science student, learning by building and breaking things.</strong></p>
-      <p>I like understanding how a product works beyond its first screen: where the data goes, how users are authenticated, what an API is doing, and why something fails when it looked completely fine five minutes ago.</p>
+    <td width="38%" align="center">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="290" alt="Girl coding animation" />
     </td>
   </tr>
 </table>
 
-## About me
-
-I’m currently studying Computer Science and spending most of my time between **Java DSA problems** and **full-stack development**.
-
-I started with small frontend projects, but I’m now much more interested in joining the whole system together—React on the frontend, APIs in Python, Firebase for accounts and data, and AI only where it is actually useful. I enjoy the debugging part more than I expected; there is something satisfying about finally finding the one small reason an entire flow was not working.
-
-I’m still early in the process, so this profile is a record of what I’m learning rather than a list of things I claim to have mastered.
-
-## These days
-
-- practising data structures and algorithms in Java
-- building React interfaces that connect to real backends
-- learning FastAPI, authentication, databases, and API design
-- experimenting with practical uses of AI in web products
-- getting more comfortable with Git, GitHub, and reading other people’s code
-
-## Tools on my desk
-
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,tailwind,fastapi,firebase,html,css,git,github,vscode&amp;perline=12" alt="Java, Python, JavaScript, React, Tailwind CSS, FastAPI, Firebase, HTML, CSS, Git, GitHub and VS Code" />
+  <img src="https://img.shields.io/badge/current%20mood-debugging-ff8fab?style=flat-square" alt="currently debugging" />
+  <img src="https://img.shields.io/badge/favourite%20plot%20twist-it%20worked%20yesterday-9b5de5?style=flat-square" alt="it worked yesterday" />
+  <img src="https://img.shields.io/badge/open%20tabs-too%20many-00b4d8?style=flat-square" alt="too many open tabs" />
 </p>
 
-## How I like to work
+## a little about me
+
+i started with frontend because seeing something appear on screen felt like magic. then i got curious about what happens behind it—APIs, authentication, databases, and all the tiny decisions that turn separate pages into one working product.
+
+i’m still learning, very much. this profile is where i keep the proof: experiments, half-solved ideas, better versions of old code, and the occasional project that finally behaves.
+
+## currently in my tabs
+
+- ☕ Java + DSA practice
+- 🎨 React, Vite, and Tailwind
+- 🔌 FastAPI and REST APIs
+- 🔐 Firebase authentication and Firestore
+- ✨ useful AI features (emphasis on *useful*)
+- 🌱 Git, GitHub, and slowly finding my way into open source
+
+## things i use without googling every single time
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,vite,tailwind,fastapi,firebase,html,css,git,github,vscode&amp;perline=13" alt="My current tech stack" />
+</p>
+
+<br />
+
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/330af13b-6435-4505-8a02-1869b677f9eb" width="210" alt="Why does my code work animation" />
+
+## my very scientific process
 
 ```text
-make it work  →  understand why it works  →  clean it up  →  write it down
+have an idea
+   ↓
+build the exciting part
+   ↓
+discover 17 unexpected problems
+   ↓
+fix 16 of them
+   ↓
+learn something new
+   ↓
+repeat
 ```
 
-I care about simple interfaces, clear explanations, and finishing the complete user flow. I’m interested in collaborating on student projects and open-source work where I can contribute, ask good questions, and learn from the way other people build.
+<br clear="both" />
 
-## Say hello
+## say hi
 
-[LinkedIn](https://www.linkedin.com/in/pragya-richa-pandey-94bbb9308/) · [GitHub](https://github.com/pragya-pp08)
+if you’re also learning, building, or have an interesting student project in mind, i’d love to connect.
+
+<a href="https://www.linkedin.com/in/pragya-richa-pandey-94bbb9308/">
+  <img src="https://img.shields.io/badge/LinkedIn-let's%20connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+</a>
+
+<br /><br />
+
+<sub>animations from <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub">Cool GIFs For GitHub</a></sub>
