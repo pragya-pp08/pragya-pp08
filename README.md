@@ -42,7 +42,7 @@ i’m still learning, very much. this profile is where i keep the proof: experim
 
 <br />
 
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/330af13b-6435-4505-8a02-1869b677f9eb" width="210" alt="Why does my code work animation" />
+<img align="right" src="./assets/women-in-tech-sticker.png" width="230" alt="Illustrated women in tech sticker" />
 
 ## my very scientific process
 
